@@ -13,12 +13,12 @@ on.
 
 ## [llama-server-launcher](https://github.com/gabrieljakob/llama-server-launcher)
 
-[![Release](https://img.shields.io/github/v/release/gabrieljakob/llama-server-launcher?label=release)](https://github.com/gabrieljakob/llama-server-launcher/releases)
 [![CI](https://github.com/gabrieljakob/llama-server-launcher/actions/workflows/ci.yml/badge.svg)](https://github.com/gabrieljakob/llama-server-launcher/actions/workflows/ci.yml)
 
 An interactive terminal board for llama.cpp's `llama-server`. Named configs,
-every setting on a numbered board, one keypress to launch. It installs with one
-line on Windows, Linux and macOS.
+every setting on a numbered board, one keypress to launch. The
+[latest release](https://github.com/gabrieljakob/llama-server-launcher/releases/latest)
+installs with one line on Windows, Linux and macOS.
 
 **What comes next**
 
