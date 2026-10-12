@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="Gabriel Jakob, software developer. Student: bachelor's, only the thesis left. Building: tools and apps, from idea to release. Shipping: tested, documented, easy to install.">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264" role="img" aria-label="Gabriel Jakob, AI-native software developer. Student: bachelor's, only the thesis left. Building: tools and apps, from idea to release. Workflow: I design, AI agents build, I review. Shipping: tested, documented, easy to install.">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
     .fg { fill: #1f2328; }
@@ -8,7 +8,7 @@
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
-  <rect x="0.5" y="0.5" width="639" height="239" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="0.5" y="0.5" width="639" height="263" rx="10" fill="#ffffff" stroke="#d0d7de"/>
   <circle cx="22" cy="19" r="5.5" fill="#cf222e"/>
   <circle cx="42" cy="19" r="5.5" fill="#bf8700"/>
   <circle cx="62" cy="19" r="5.5" fill="#1a7f37"/>
@@ -16,7 +16,7 @@
   <line x1="1" y1="38" x2="639" y2="38" stroke="#d0d7de"/>
 
   <text x="32" y="76" class="fg" style="font-size: 22px; font-weight: 700">Gabriel Jakob</text>
-  <text x="32" y="100" class="dim" style="font-size: 14px">Software developer</text>
+  <text x="32" y="100" class="dim" style="font-size: 14px">AI-native software developer</text>
 
   <text x="40" y="138" class="acc">1</text>
   <text x="72" y="138" class="dim">student</text>
@@ -27,9 +27,13 @@
   <text x="176" y="162" class="fg">tools and apps, from idea to release</text>
 
   <text x="40" y="186" class="acc">3</text>
-  <text x="72" y="186" class="dim">shipping</text>
-  <text x="176" y="186" class="fg">tested, documented, easy to install</text>
+  <text x="72" y="186" class="dim">workflow</text>
+  <text x="176" y="186" class="fg">I design, AI agents build, I review</text>
 
-  <text x="32" y="218" class="acc">&gt;</text>
-  <rect x="48" y="205" width="9" height="16" class="cursor"/>
+  <text x="40" y="210" class="acc">4</text>
+  <text x="72" y="210" class="dim">shipping</text>
+  <text x="176" y="210" class="fg">tested, documented, easy to install</text>
+
+  <text x="32" y="242" class="acc">&gt;</text>
+  <rect x="48" y="229" width="9" height="16" class="cursor"/>
 </svg>
