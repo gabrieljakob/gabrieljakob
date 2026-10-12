@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="Gabriel Jakob. Student: bachelor's, only the thesis left. Shipped: llama-server-launcher. Next: slm-router-bench.">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="Gabriel Jakob, software developer. Student: bachelor's, only the thesis left. Building: tools and apps, from idea to release. Shipping: tested, documented, easy to install.">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
     .fg { fill: #1f2328; }
@@ -16,19 +16,19 @@
   <line x1="1" y1="38" x2="639" y2="38" stroke="#d0d7de"/>
 
   <text x="32" y="76" class="fg" style="font-size: 22px; font-weight: 700">Gabriel Jakob</text>
-  <text x="32" y="100" class="dim" style="font-size: 14px">Tools for running and measuring local LLMs</text>
+  <text x="32" y="100" class="dim" style="font-size: 14px">Software developer</text>
 
   <text x="40" y="138" class="acc">1</text>
   <text x="72" y="138" class="dim">student</text>
   <text x="176" y="138" class="fg">bachelor's, only the thesis left</text>
 
   <text x="40" y="162" class="acc">2</text>
-  <text x="72" y="162" class="dim">shipped</text>
-  <text x="176" y="162" class="fg">llama-server-launcher</text>
+  <text x="72" y="162" class="dim">building</text>
+  <text x="176" y="162" class="fg">tools and apps, from idea to release</text>
 
   <text x="40" y="186" class="acc">3</text>
-  <text x="72" y="186" class="dim">next</text>
-  <text x="176" y="186" class="fg">slm-router-bench</text>
+  <text x="72" y="186" class="dim">shipping</text>
+  <text x="176" y="186" class="fg">tested, documented, easy to install</text>
 
   <text x="32" y="218" class="acc">&gt;</text>
   <rect x="48" y="205" width="9" height="16" class="cursor"/>

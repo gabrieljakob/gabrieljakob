@@ -1,14 +1,15 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/board-dark.svg">
-    <img src="./assets/board-light.svg" width="640" alt="Gabriel Jakob. Student: bachelor's, only the thesis left. Shipped: llama-server-launcher. Next: slm-router-bench.">
+    <img src="./assets/board-light.svg" width="640" alt="Gabriel Jakob, software developer. Student: bachelor's, only the thesis left. Building: tools and apps, from idea to release. Shipping: tested, documented, easy to install.">
   </picture>
 </div>
 
 <br>
 
-I'm a bachelor's student with only my thesis left to go. I build tools for
-running LLMs locally, and for measuring what they can do.
+I'm a bachelor's student with only my thesis left to go. I like turning ideas
+into software that other people can install and use. Here is what I'm working
+on.
 
 ## [llama-server-launcher](https://github.com/gabrieljakob/llama-server-launcher)
 
